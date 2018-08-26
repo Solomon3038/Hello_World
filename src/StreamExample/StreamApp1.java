@@ -1,6 +1,5 @@
-package stream;
+package StreamExample;
 
-import java.util.Optional;
 import java.util.stream.Stream;
 
 
